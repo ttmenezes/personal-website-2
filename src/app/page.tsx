@@ -25,7 +25,7 @@ export default function Home() {
                   />
                 </div>
                 <div>
-                  <h1 className="text-3xl font-bold">Trivan Menezes</h1>
+                  <h1 className="text-3xl font-semibold">Trivan Menezes</h1>
                   <p className="text-muted-foreground">Princeton CS | Microsoft Azure AI</p>
                 </div>
 
